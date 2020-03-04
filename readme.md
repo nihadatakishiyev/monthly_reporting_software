@@ -17,3 +17,6 @@ The task was to build a platform which gets raw data of different departments fr
     <li>Frontend created with Materializecss 1.0</li>
     <li>Graphics and statistic charts created with ChartJS</li>
 </ul>
+</br>
+
+![](Capture.PNG)
