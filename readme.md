@@ -9,7 +9,7 @@
 
 ## About Project
 
-This problem was built for one of local companies; however, did not reach the production stage. The aim of the project was to build a platform which contains reports of different departments in one place. To build those reports data for different departments were collected from different data sources through provided APIs. 
+This software product was built for one of local companies; however, did not reach the production stage. The aim of the project was to build a platform which contains reports of different departments in one place. To build those reports data for different departments were collected from different data sources through provided APIs. 
 
 ## Used Technologies
 - PHP Laravel
