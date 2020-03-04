@@ -9,12 +9,11 @@
 
 ## About Project
 
-This software product was built for one of local companies; however, did not reach the production stage. The aim of the project was to build a platform which contains reports of different departments in one place. To build those reports data for different departments were collected from different data sources through provided APIs. 
+The task was to build a platform which gets raw data of different departments from various sources through REST APIs, analyzes those data to retrieve necessary information and generate visual reports on monnthly bases. 
 
 ## Used Technologies
-- PHP Laravel
-- Materialize CSS
-- MySQL
-- ChartJS
-- REST APIs
-
+<ul>
+    <li>Backend of Dashboard created with Laravel 5.8</li>
+    <li>Frontend created with Materializecss 1.0</li>
+    <li>Graphics and statistic charts created with ChartJS</li>
+</ul>
